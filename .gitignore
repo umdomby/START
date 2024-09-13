@@ -1,0 +1,10 @@
+/.idea/
+/cryptoid_store/back/node_modules/
+/serbot_online/back/node_modules/
+/serbot_online/front/node_modules/
+/cryptoid_store/front/node_modules/
+
+/serbot_online/front/yarn.lock
+/serbot_online/back/yarn.lock
+/cryptoid_store/front/yarn.lock
+/cryptoid_store/back/yarn.lock

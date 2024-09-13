@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "prod": "cd cryptoid_store/back && yarn prod & cd cryptoid_store/front && yarn prod & cd serbot_online/back && yarn start & cd serbot_online/front && yarn prod",
+    "dev": "cd cryptoid_store/back && yarn dev & cd cryptoid_store/front && yarn dev & cd serbot_online/back && yarn dev & cd serbot_online/front && yarn dev"
+
+  }
+}
